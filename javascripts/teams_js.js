@@ -28,7 +28,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/nevo.jpg"
+        "images/cessteam/nevo.webp"
     ),
     new headsInfo(
         2,
@@ -39,7 +39,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/nevo.jpg"
+        "images/cessteam/nevo.webp"
     ),
     new headsInfo(
         3,
@@ -50,7 +50,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/Rodgers.jpg"
+        "images/cessteam/Rodgers.webp"
     ),
    
    
@@ -63,7 +63,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/Rodgers.jpg"
+        "images/cessteam/Rodgers.webp"
     ),
     new headsInfo(
         5,
@@ -74,7 +74,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/fabsh.jpg"
+        "images/cessteam/fabsh.webp"
     ),
     new headsInfo(
         6,
@@ -85,7 +85,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/fabsh.jpg"
+        "images/cessteam/fabsh.webp"
     ),
     new headsInfo(
         7,
@@ -96,7 +96,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/paul.jpg"
+        "images/cessteam/paul.webp"
     ),
     new headsInfo(
         8,
@@ -107,7 +107,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/paul.jpg"
+        "images/cessteam/paul.webp"
     ),
     new headsInfo(
         9,
@@ -118,7 +118,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/hilla.jpg"
+        "images/cessteam/hilla.webp"
     ),
     new headsInfo(
         10,
@@ -129,7 +129,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/janet.jpg"
+        "images/cessteam/janet.webp"
     ),
     new headsInfo(
         11,
@@ -140,7 +140,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/Noel.jpg"
+        "images/cessteam/Noel.webp"
     ),
     new headsInfo(
         12,
@@ -151,7 +151,7 @@ var heads = ["",
         "#",
         "#",
         "#",
-        "images/cessteam/Noel.jpg"
+        "images/cessteam/Noel.webp"
     ),
     
 ];
@@ -159,42 +159,42 @@ var heads = ["",
 var teams = ["",
     new teamInfo(
         1,
-        'images/teams/technical.jpg',
+        'images/teams/technical.webp',
         "Incubation & project design Team",
         "We promote and organise for weekly projects.",
         "We as incubation and project design team, we promote, organise and facilitate for the weekly project design. Actuarial students meet up to brainstorm ideas aiming to solve the societal challenges. We also represent our projects at Actuarial annual project design usually organised by TASK body with partinership with other key playing companies."
     ),
     new teamInfo(
         2,
-        "images/teams/placement.jpg",
+        "images/teams/placement.webp",
         "Statistical softwares & other Data analysis Technologies Team",
         "We make best efforts to improve data analytical skills of members.",
         "We as Statistical softwares & other Data analysis Technologies Team, do our best to improve the data analytics skills of the members. As actuaries are surounded by data each day, they need special data analytic skills to develop useful insights that coulkd be used for forecaslting and decision making. We achieve this by exploring different technologies in the market(R, Spss, Stata, Python, excel,google sheets, power Bi, Google dat studio). Thanks to our members who posess different skills in different technologies! We always learn alot from them. "
     ),
     new teamInfo(
         3,
-        "images/teams/promotion.jpg",
+        "images/teams/promotion.webp",
         "Public Relations Team",
         "We shape our organisation's image.",
         "We build the brand, spread the organization's message and minimize the effect of negative publicity. We as UEASA we have build a strong relations with key playing companies.We have good communication technicians who are also PR writers. we turn out press release, Newsletters, Website content, Speeches, Blogs and social media posts."
     ),
     new teamInfo(
         4,
-        "images/teams/pr.jpg",
+        "images/teams/pr.webp",
         "Promotion Team",
         "We earn our sponsors who help us in performing successful events.",
         "The members of our Public Relations team are meant to be the face of the UEASA. For any event or a workshop, one question always lies there, that is how to get all of those important people notice us? We need PR Team! The foundation of any event, either financially or for resources is laid by us. Our main task focuses upon gaining sponsors for certain events. We don’t come up with catchy phrases to make people pay for what they probably don’t need. We earn our sponsors who belive in our work and talent."
     ),
     new teamInfo(
         5,
-        "images/teams/finearts.jpg",
+        "images/teams/finearts.webp",
         "Executivecutive team",
         "We try and give our best to guide and reshape UEASA to give it a brand new look.",
         "We are men and women who put their soul to the work they do, to lead, Mentor & motivate the UEASA association. We are hardworking individuals with different levels of skills to stear our association towards global success. We value our differences, listen and communicate well, seek input from each other, and trust and respect one another- these makes our teams more effective."
     ),
     new teamInfo(
         6,
-        "images/teams/design.jpg",
+        "images/teams/design.webp",
         "Library & Resources Team",
         "We look out for the best resources that can feed our members with quality knowledge and skills.",
         "In an academic instutitions, resources available at your disposal serves as a heart of your career. There we as a team we look out for the best and easy to comprehend resources. We also advice the members on how to utilize the limited time on campus to gain hot cake skills that are easily absorbed to the market. We share resources to them through the online platforms (mainly through our website) ."

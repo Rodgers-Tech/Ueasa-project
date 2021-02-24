@@ -1,3 +1,4 @@
+
 body{
     background: none;
 }
@@ -13,35 +14,35 @@ body{
 }
 .carousel-item:nth-child(1)
 {
-    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0, 0, 0, 0.9)), url("../images/back/1.jpg");
+    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0, 0, 0, 0.9)), url("../images/back/1.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .carousel-item:nth-child(2)
 {
-    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0, 0, 0, 0.9)), url("../images/back/2.jpg");
+    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0, 0, 0, 0.9)), url("../images/back/2.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .carousel-item:nth-child(3)
 {
-    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0, 0, 0, 0.9)), url("../images/back/3.jpg");
+    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0, 0, 0, 0.9)), url("../images/back/3.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .carousel-item:nth-child(4)
 {
-    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0 , 0, 0, 0.9)), url("../images/back/4.jpg");
+    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0 , 0, 0, 0.9)), url("../images/back/4.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .carousel-item:nth-child(5)
 {
-    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0, 0, 0, 0.9)), url("../images/back/5.jpg");
+    background:linear-gradient(-45deg, rgba(113, 0, 0, 0.2),rgba(0, 0, 0, 0.9)), url("../images/back/5.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

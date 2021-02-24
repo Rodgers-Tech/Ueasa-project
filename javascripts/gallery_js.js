@@ -10,63 +10,63 @@ var images = ["",
  
     new imageInfo(
         6,
-        "images/gallery/fun.jpg",
+        "images/gallery/fun.webp",
         "Mar 19, 2018",
         "Fun! fun! fun!",
         "This is what we love doing, fun after fun! Thanks to Miss Shee who took us through the exercise. It was awesome!"
     ),
     new imageInfo(
         7,
-        "images/gallery/billboard.jpg",
+        "images/gallery/billboard.webp",
         "Sept 8, 2018",
         "Games and fun",
         "what can an actuarial mind not do? Absolutely nothing! Section of actuarial science studentns enjoying scrabble game."
     ),
     new imageInfo(
         8,
-        "images/gallery/iten.jpg",
+        "images/gallery/iten.webp",
         "Mar 19, 2018",
         "People Gone Crazy",
         "Actuarial science ladies who attended the event looks to have a lot of fun. We love them though!"
     ),
     new imageInfo(
         9,
-        "images/gallery/itenhike.jpg",
+        "images/gallery/itenhike.webp",
         "Oct 20, 2018",
         "Iten Hike",
         "UEASA team organised a hike to iten. One of the cool place around Chep you can have fun and appreciate beauty of the universe. All the actuarial science who attended loved the place!."
     ),
     new imageInfo(
         10,
-        "images/gallery/hotsunday.jpg",
+        "images/gallery/hotsunday.webp",
         "Aug 27, 2019",
         "Hot sun-day",
         "Actuarial science students hunging out on a hot sun day, they seem to be conteted by the scorching sun, definately a good place and best way to interact!."
     ),
     new imageInfo(
         11,
-        "images/gallery/congressman.jpg",
+        "images/gallery/congressman.webp",
         "Aug 27, 2019",
         "Congressman",
         "UEASA seems to be standing out at entire university by producing school of science congressman. Noel Wanzalla be his name, also delivers his speech during the event. Claims Ronaldo(footballer) to be his role model- UEASA appreciates his sence of humour."
     ),
     new imageInfo(
         12,
-        "images/gallery/chairperson.jpg",
+        "images/gallery/chairperson.webp",
         "Aug 27, 2019",
         "UEASA chairperson",
         "Mr. Hillary Onyango, the chairperson of the association also Delivers his speech at the event. UEASA appreciate his leadership qualities that has moved UEASA huge steps forwad. God bless you!!."
     ),
     new imageInfo(
         13,
-        "images/gallery/kimeli.jpg",
+        "images/gallery/kimeli.webp",
         "Aug 27, 2019",
         "Guest speaker",
         "Dr. Kimeli who is also UEASA patron, graced the event on data analysis land machine learning techniques. He was also Joined along with Dr. Sewe and Mr. Herbat (lectures at the university of Eldoret).Lucky as UEASA to have them around!!"
     ),
     new imageInfo(
         14,
-        "images/gallery/actuarialday.jpg",
+        "images/gallery/actuarialday.webp",
         "Aug 27, 2019",
         "UEASA Actuarial day",
         "An event organised by UEASA to unbox actuarial minds beyond actuarial tables. It was an internal event at the start of 2019/2020 Academic year. Machine learning and related technologies was the highlights of the event. More than 90 actuarial science students attended the event."
